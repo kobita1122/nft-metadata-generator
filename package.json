@@ -1,0 +1,10 @@
+{
+  "name": "nft-metadata-generator",
+  "version": "1.0.0",
+  "description": "Generate JSON metadata for NFT collections",
+  "main": "generator.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "node generator.js"
+  }
+}
